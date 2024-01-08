@@ -9,7 +9,7 @@ We want to be able to send an output to Port D7 and read from Port D6 on the AVR
 
 This means we want to access the Port D Data Register on the Atmega328p.
 
-![image](https://github.com/elenajusto/LED-Button-Toggle/assets/56148816/46f4e60d-16a2-499e-bc7f-3857f5d6c4a5)
+![image](https://github.com/elenajusto/LED-Button-Toggle/assets/56148816/31404007-0295-459a-a2c1-12e6a515075c)
 
 We need to use the Data Direction Register for Port D (DDRD) and set:
 	• Port D7: Output

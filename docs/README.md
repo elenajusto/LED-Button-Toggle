@@ -1,3 +1,6 @@
+# Circuit Diagram
+![image](https://github.com/elenajusto/LED-Button-Toggle/assets/56148816/329415a3-3021-4713-9e66-b1d87e11ac27)
+
 # Picture of Circuit
 ![image](https://github.com/elenajusto/LED-Button-Toggle/assets/56148816/841eff54-05fd-4693-842b-abe622f574d4)
 

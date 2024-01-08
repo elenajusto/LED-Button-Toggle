@@ -15,10 +15,10 @@ int main(void) {
 
     // Main Loop
     while(1) {
-        // If PD6 is HIGH
-            // Set PD7 to HIGH
+        // If PIN D6 is HIGH
+            // Set PORT D7 to HIGH
         // Else
-            // Set PD7 to LOW
+            // Set PORT PD7 to LOW
     }
     return 0;
 }

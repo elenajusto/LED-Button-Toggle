@@ -6,6 +6,19 @@
 #define F_CPU 16000000UL    // Arduino board clock frequency: 16 Mhz
 
 // Main Program
-void main(void) {
-    
+int main(void) {
+
+    // Setting the value of DDRD
+    int valueToSetDDRD = 0b10000000;   // We want to set DDRD to this value
+    DDRD = DDRD | valueToSetDDRD;      // Carries out the OR operator on DDRD 
+                                       // Given DDRD default value is 0b00000000
+
+    // Main Loop
+    while(1) {
+        // If PD6 is HIGH
+            // Set PD7 to HIGH
+        // Else
+            // Set PD7 to LOW
+    }
+    return 0;
 }

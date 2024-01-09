@@ -1,3 +1,10 @@
+# Latest Update: Program is functional :)
+The microcontroller is able to detect when the button is pressed and can turn on the LED!
+
+Video demonstration:
+
+https://github.com/elenajusto/LED-Button-Toggle/assets/56148816/deb8d002-e5d5-49e0-9699-004857806f01
+
 # Circuit Diagram
 ![image](https://github.com/elenajusto/LED-Button-Toggle/assets/56148816/329415a3-3021-4713-9e66-b1d87e11ac27)
 
